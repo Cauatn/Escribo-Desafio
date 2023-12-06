@@ -17,3 +17,6 @@ var sumInf = function(number) {
 
     return result
 }
+
+console.log('exemplo 01: ' + sumInf(10))
+console.log('exemplo 02: ' + sumInf(11))
