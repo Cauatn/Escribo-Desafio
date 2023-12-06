@@ -1,4 +1,4 @@
-<h1 align="center"> Primeiro desafio Escribo </h1>
+<h1 align="center"> Desafio Escribo </h1>
 
 # 📁 Acesso ao projeto
 
